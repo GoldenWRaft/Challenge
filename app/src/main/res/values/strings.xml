@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhaseOneChallenge</string>
+    <string name="phase_one_challenge">Phase 1 Challenge</string>
+    <string name="alc_name">Name: Werner Engelbrecht</string>
+    <string name="alc_track">Track: Android</string>
+    <string name="alc_country">Country: South Africa</string>
+    <string name="alc_email">Email: wernerengelbrecht.66@gmail.com</string>
+    <string name="alc_phone_number">Phone Number: +27767911412</string>
+</resources>
